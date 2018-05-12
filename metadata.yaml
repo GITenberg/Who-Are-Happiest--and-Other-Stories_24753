@@ -1,0 +1,34 @@
+_repo: Who-Are-Happiest--and-Other-Stories_24753
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2008-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Short stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: Who Are Happiest? and Other Stories
+url: http://www.gutenberg.org/ebooks/24753
