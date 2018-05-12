@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1513
     wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24753#Who-Are-Happiest--and-Other-Stories
 gutenberg_issued: '2008-03-04'
 gutenberg_type: Text
 identifiers:
